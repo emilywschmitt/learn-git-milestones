@@ -138,13 +138,13 @@ You should be able to ...
 ### Command line interface (CLI)
 You should have a basic familiarity with the command line to install Git. Some folks use the CLI as their default tool for editing and publishing source code, but Atom makes it much easier.
 
-- [ ] If you haven't yet, complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
-- [ ] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
+- [X] If you haven't yet, complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
+- [X] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
 - [ ] Use the CLI to navigate directories  
-  - [ ] List files in this directory: `ls`
-  - [ ] List files in this directory, including hidden: `ls -la`  
-  - [ ] Confirm the existence of the `.git` directory (where Git versions and config are stored)
-  - [ ] View your current directory and copy the full path: `pwd`
+  - [X] List files in this directory: `ls`
+  - [X] List files in this directory, including hidden: `ls -la`  
+  - [X] Confirm the existence of the `.git` directory (where Git versions and config are stored)
+  - [X] View your current directory and copy the full path: `pwd`
   - [ ] Open this README file in Atom and paste that path here: **??**
 - [ ] Use Git on the CLI
   - [ ] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
