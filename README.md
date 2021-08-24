@@ -71,8 +71,8 @@ Create a Github account and make your first commit
 
 - [ ] [Create a Github account](https://github.com/join)
 - [ ] Fork this [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repository (click the Fork button, top right).
-- [ ] ✏️ Edit the README file (click the pencil icon) and add your favorite emoji here: **??**
-- [ ] ✏️ Edit the space between the square brackets `[ ]` preceding each line you complete to look like `[x]`
+- [x] ✏️ Edit the README file (click the pencil icon) and add your favorite emoji here: **🤺**
+- [ ] ✏️ Edit the space between the square brackets `[]` preceding each line you complete to look like `[x]`
 - [ ] ✏️ Commit changes to README.md to the main branch with the message `commit #1 from Github.com`
 - [ ] View the commit history and confirm your edits
 
@@ -92,18 +92,18 @@ Install your development environment
 
 ### Configure Git
 
-- [ ] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
-- [ ] ✏️ This displays a help file with a list of possible commands. What does `log` do? **??**
-- [ ] Add your name and email (replace with your information and press return after each line)
+- [x] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
+- [x] ✏️ This displays a help file with a list of possible commands. What does `log` do? **'log' displays all the commands, global options, and further help we can use.**
+- [x] Add your name and email (replace with your information and press return after each line)
 ```bash
 git config --global user.name "Jane Doe"
 git config --global user.email janedoe@example.com
 ```
-- [ ] Set the default branch to [main](https://www.theserverside.com/feature/Why-GitHub-renamed-its-master-branch-to-main)
+- [x] Set the default branch to [main](https://www.theserverside.com/feature/Why-GitHub-renamed-its-master-branch-to-main)
 ```bash
 git config --global init.defaultBranch main
 ```
-- [ ] Confirm your settings worked with either of these
+- [x] Confirm your settings worked with either of these
 ```bash
 cat ~/.gitconfig
 git config --list
@@ -118,12 +118,12 @@ You should be able to perform a basic Git workflow using Github.com, the command
 ### In Github Desktop
 You should be able to ...
 
-- [ ] Install [Atom](https://atom.io/) on your machine
-	- [ ] Connect your Github account in Atom
-- [ ] Install [Github Desktop](https://desktop.github.com/)
-	- [ ] Connect your Github account in Github Desktop
-	- [ ] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
-	- [ ] File > Clone Repository > Github.com and select it ...
+- [x] Install [Atom](https://atom.io/) on your machine
+	- [x] Connect your Github account in Atom
+- [x] Install [Github Desktop](https://desktop.github.com/)
+	- [x] Connect your Github account in Github Desktop
+	- [x] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
+	- [x] File > Clone Repository > Github.com and select it ...
 	- [ ] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<your-class-name-here>`
 	- [ ] Click "Clone" to make a local copy
 - [ ] Open the repo in Atom: Repository > Open in Atom  
