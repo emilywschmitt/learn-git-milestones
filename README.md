@@ -130,8 +130,8 @@ You should be able to ...
 - [x] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **🍇**
 - [x] In Github Desktop, view/confirm your edits to the README file on the Changes tab
 - [x] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
-- [ ] Click Push origin to push your new commit to remote repo  
-- [ ] Confirm the changes to the README file were pushed: Choose Repository > View on Github
+- [x] Click Push origin to push your new commit to remote repo  
+- [x] Confirm the changes to the README file were pushed: Choose Repository > View on Github
 - [ ] Click on the README file and then click on History to see the history of this file
 
 
