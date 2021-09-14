@@ -132,7 +132,7 @@ You should be able to ...
 - [x] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
 - [x] Click Push origin to push your new commit to remote repo  
 - [x] Confirm the changes to the README file were pushed: Choose Repository > View on Github
-- [ ] Click on the README file and then click on History to see the history of this file
+- [x] Click on the README file and then click on History to see the history of this file
 
 
 ### Command line interface (CLI)
@@ -140,14 +140,14 @@ You should have a basic familiarity with the command line to install Git. Some f
 
 - [X] If you haven't yet, complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
 - [X] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
-- [ ] Use the CLI to navigate directories  
+- [x] Use the CLI to navigate directories  
   - [X] List files in this directory: `ls`
   - [X] List files in this directory, including hidden: `ls -la`  
   - [X] Confirm the existence of the `.git` directory (where Git versions and config are stored)
   - [X] View your current directory and copy the full path: `pwd`
   - [ ] Open this README file in Atom and paste that path here: **??**
 - [ ] Use Git on the CLI
-  - [ ] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
+  - [x] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
   - [ ] View the status of your repo: `git status`
   - [ ] View the changed files of your repo: `git diff`
   - [ ] Add all changed files to the staging area `git add .`
@@ -165,10 +165,10 @@ You've used most of these already through a GUI (e.g. `git status`, `git add`, `
 ### Git in Atom
 You should be able to ...
 
-- [ ] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
-- [ ] ✏️ In Atom, edit this README file and add your *third* favorite emoji here: **??**
+- [x] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
+- [x] ✏️ In Atom, edit this README file and add your *third* favorite emoji here: **🐛**
 - [ ] ✏️ Create a new file `hello.txt`, add some text and save it.
-- [ ] Display the Git panel (click the small Git button at the bottom right).
+- [x] Display the Git panel (click the small Git button at the bottom right).
 
 ![atom-git-menu](assets/img/atom-git-menu.png)
 
@@ -182,10 +182,10 @@ You should be able to ...
 ## Create a new repository
 
 - [ ] Create a repository from scratch
-  - [ ] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
-  - [ ] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
-  - [ ] Click Create Repository
-  - [ ] This should now be your class folder's directory structure.
+  - [x] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
+  - [x] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
+  - [x] Click Create Repository
+  - [x] This should now be your class folder's directory structure.
   ```
   <your-class-name-here>
     |-- my-awesome-project
