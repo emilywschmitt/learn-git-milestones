@@ -145,14 +145,14 @@ You should have a basic familiarity with the command line to install Git. Some f
   - [X] List files in this directory, including hidden: `ls -la`  
   - [X] Confirm the existence of the `.git` directory (where Git versions and config are stored)
   - [X] View your current directory and copy the full path: `pwd`
-  - [ ] Open this README file in Atom and paste that path here: **??**
+  - [x] Open this README file in Atom and paste that path here: **atom README.md .**
 - [ ] Use Git on the CLI
   - [x] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
-  - [ ] View the status of your repo: `git status`
-  - [ ] View the changed files of your repo: `git diff`
-  - [ ] Add all changed files to the staging area `git add .`
-  - [ ] View the status of your repo `git status` to confirm it has been staged
-  - [ ] ✏️ Commit your changes with the message `commit #3 from CLI`
+  - [x] View the status of your repo: `git status`
+  - [x] View the changed files of your repo: `git diff`
+  - [x] Add all changed files to the staging area `git add .`
+  - [x] View the status of your repo `git status` to confirm it has been staged
+  - [x] ✏️ Commit your changes with the message `commit #3 from CLI`
   - [ ] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
 
