@@ -181,7 +181,7 @@ You should be able to ...
 
 ## Create a new repository
 
-- [ ] Create a repository from scratch
+- [x] Create a repository from scratch
   - [x] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
   - [x] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
   - [x] Click Create Repository
@@ -202,7 +202,7 @@ You should be able to ...
 ## Create a Github.io page
 Create a github.io site for your repository ...
 
-- [ ] ✏️ Create a file called `index.html` in your new repo and add the following html
+- [x] ✏️ Create a file called `index.html` in your new repo and add the following html
 
 ```html
 <!DOCTYPE html>
@@ -219,7 +219,7 @@ Create a github.io site for your repository ...
 </html>
 ```
 
-- [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
+- [x] Set up a [Github page](https://pages.github.com/) "project site" for your repo
   - [x] On Github.com, go to your repo > Settings, and scroll down to the Github Pages section
   - [x] Select the main branch source and click save
   - [x] Do not use a theme. Start from scratch
@@ -235,10 +235,10 @@ Create a github.io site for your repository ...
 ## Turn in this Assignment
 Now that we have basic Git commands out of the way use Git to create and turn in your assignment ...
 
-- [ ] Complete all of the items on this README
-- [ ] Test your file(s) in a web browser
-- [ ] Commit and push the files to Github
-- [ ] Paste the github.io link into the appropriate Moodle forum
+- [x] Complete all of the items on this README
+- [x] Test your file(s) in a web browser
+- [x] Commit and push the files to Github
+- [x] Paste the github.io link into the appropriate Moodle forum
 
 
 
