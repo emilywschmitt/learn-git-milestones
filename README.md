@@ -146,14 +146,14 @@ You should have a basic familiarity with the command line to install Git. Some f
   - [X] Confirm the existence of the `.git` directory (where Git versions and config are stored)
   - [X] View your current directory and copy the full path: `pwd`
   - [x] Open this README file in Atom and paste that path here: **atom README.md .**
-- [ ] Use Git on the CLI
+- [x] Use Git on the CLI
   - [x] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
   - [x] View the status of your repo: `git status`
   - [x] View the changed files of your repo: `git diff`
   - [x] Add all changed files to the staging area `git add .`
   - [x] View the status of your repo `git status` to confirm it has been staged
   - [x] ✏️ Commit your changes with the message `commit #3 from CLI`
-  - [ ] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
+  - [x] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
 
 
@@ -167,14 +167,14 @@ You should be able to ...
 
 - [x] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
 - [x] ✏️ In Atom, edit this README file and add your *third* favorite emoji here: **🐛**
-- [ ] ✏️ Create a new file `hello.txt`, add some text and save it.
+- [x] ✏️ Create a new file `hello.txt`, add some text and save it.
 - [x] Display the Git panel (click the small Git button at the bottom right).
 
 ![atom-git-menu](assets/img/atom-git-menu.png)
 
-- [ ] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
-- [ ] Double click on each file with changes to stage them  
-- [ ] ✏️ Commit your changes directly to the main branch with the message `commit #4 from Atom`
+- [x] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
+- [x] Double click on each file with changes to stage them  
+- [x] ✏️ Commit your changes directly to the main branch with the message `commit #4 from Atom`
 
 
 
@@ -191,10 +191,10 @@ You should be able to ...
     |-- my-awesome-project
     |-- learn-git-milestones
   ```
-  - [ ] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder onto the Atom icon in your dock)
-  - [ ] ✏️ Add a README file: `README.md`
-  - [ ] ✏️ In the README write your name and the date
-  - [ ] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  - [x] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder onto the Atom icon in your dock)
+  - [x] ✏️ Add a README file: `README.md`
+  - [x] ✏️ In the README write your name and the date
+  - [x] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
 
@@ -220,12 +220,12 @@ Create a github.io site for your repository ...
 ```
 
 - [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [ ] On Github.com, go to your repo > Settings, and scroll down to the Github Pages section
-  - [ ] Select the main branch source and click save
-  - [ ] Do not use a theme. Start from scratch
-  - [ ] Visit your project site at http://*username*.github.io/my-awesome-project
-  - [ ] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  - [ ] ✏️ Paste this link here:
+  - [x] On Github.com, go to your repo > Settings, and scroll down to the Github Pages section
+  - [x] Select the main branch source and click save
+  - [x] Do not use a theme. Start from scratch
+  - [x] Visit your project site at http://*username*.github.io/my-awesome-project
+  - [x] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
+  - [x] ✏️ Paste this link here: https://emilywschmitt.github.io/my-awesome-project/
 
 
 
